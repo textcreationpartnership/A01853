@@ -35,291 +35,87 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The tragedie of Lodouick Sforza Duke of Millan. By Robert GomersallGomersall, Robert, 1602-1646?1628
+THE EXPLANATION of the Frontiſpice.IT was when Induſtry did ſleepeThe Wolfe was Tutor to the Sheep,A
+1. TO HIS MOST WORTHIE FRIEND Mr. FRANCIS HIDE PROCTOR OF OXFORD.
+
+1. The Argument.
+
 #####Body#####
 
-1. Actus primi
+1. The names of the Actors.
 
-    _ Scena prima.
+1. The Prologue.
+Actus primiScena prima.Galeazzo Duke of Millane, Iſabella his Wife.〈…〉.WHy weeps my Deare?〈…〉.Aske w
+    _ Actus primi
 
-    _ Scena ſecunda.
+      * Scena prima.
 
-    _ Scena tertia.
+      * Scena ſecunda.
 
-    _ Scena quarta.
+      * Scena tertia.
 
-    _ Scena quinta.
+      * Scena quarta.
 
-    _ Scena prima.
+      * Scena quinta.
 
-    _ Scena ſecunda.
+    _ Actus ſecundi
 
-    _ Scena tertia.
+      * Scena prima.
 
-    _ Scena quarta.
+      * Scena ſecunda.
 
-    _ Scena quinta.
+      * Scena tertia.
 
-    _ Scena quinta.
+      * Scena quarta.
 
-    _ Scena ſext•.
+      * Scena quinta.
 
-    _ Scena prima.
+      * Scena quinta.
 
-    _ Scena ſecunda.
+      * Scena ſext•.
 
-    _ Scena tertia.
+    _ Actus tertii
 
-    _ Scena quarta.
+      * Scena prima.
 
-    _ Scena quinta.
+      * Scena ſecunda.
 
-    _ Scena prima.
+      * Scena tertia.
 
-    _ Scena ſecunda.
+      * Scena quarta.
 
-    _ Scena tertia.
+      * Scena quinta.
 
-    _ Scena quarta.
+    _ Actus quarti
 
-    _ Scena quinta.
+      * Scena prima.
 
-    _ Scena prima.
+      * Scena ſecunda.
 
-    _ Scena ſecunda.
+      * Scena tertia.
 
-    _ Scena tertia.
+      * Scena quarta.
 
-    _ Scena quarta.
+      * Scena quinta.
 
-    _ Scena vltima.
+    _ Actus Quinti
 
-1. Actus ſecundi
+      * Scena prima.
 
-    _ Scena prima.
+      * Scena ſecunda.
 
-    _ Scena ſecunda.
+      * Scena tertia.
 
-    _ Scena tertia.
+      * Scena quarta.
 
-    _ Scena quarta.
+      * Scena vltima.
 
-    _ Scena quinta.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena quinta.
-
-    _ Scena ſext•.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena vltima.
-
-1. Actus tertii
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena quinta.
-
-    _ Scena ſext•.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena vltima.
-
-1. Actus quarti
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena quinta.
-
-    _ Scena ſext•.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena vltima.
-
-1. Actus Quinti
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena quinta.
-
-    _ Scena ſext•.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena quinta.
-
-    _ Scena prima.
-
-    _ Scena ſecunda.
-
-    _ Scena tertia.
-
-    _ Scena quarta.
-
-    _ Scena vltima.
+1. The Epilogue.
 
 #####Back#####
-The tragedie of Lodouick Sforza Duke of Millan. By Robert GomersallGomersall, Robert, 1602-1646?1628
+
+1. To the Ambitious.
+
 **Types of content**
 
   * There are 2182 **verse** lines!
